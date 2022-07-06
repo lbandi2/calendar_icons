@@ -1,0 +1,258 @@
+{
+    "categories": [
+        {
+            "string": [
+                "argentina-",
+                "argentina - ",
+                "-argentina",
+                " - argentina",
+                "partido",
+                "velez",
+                "vélez"
+            ],
+            "icon": [
+                "soccer ball"
+            ]
+        },
+        {
+        "string": [
+            "vence",
+            "vencimiento"
+        ],
+        "icon": [
+            "red exclamation mark"
+        ]
+    },
+    {
+        "string": [
+            "cumpleaños",
+            "cumple de"
+        ],
+        "icon": [
+            "birthday cake",
+            "party popper",
+            "balloon",
+            "wrapped gift"
+        ]
+    },
+    {
+        "string": [
+            "cena"
+        ],
+        "icon": [
+            "cut of meat",
+            "poultry leg",
+            "fork and knife with plate",
+            "wine glass",
+            "cocktail glass",
+            "clinking glasses"
+        ]
+    },
+    {
+        "string": [
+            "visita de"
+        ],
+        "icon": [
+            "waving hand"
+        ]
+    },
+    {
+        "string": [
+            "cine",
+            "movie",
+            "pelicula",
+            "película"
+        ],
+        "icon": [
+            "clapper board",
+            "movie camera",
+            "film projector",
+            "admission tickets"
+        ]
+    },
+    {
+        "string": [
+            "viaje a"
+        ],
+        "icon": [
+            "airplane departure"
+        ]
+    },
+    {
+        "string": [
+            "aniversario de casamiento"
+        ],
+        "icon": [
+            "ring"
+        ]
+    },
+    {
+        "string": [
+            "viaje a"
+        ],
+        "icon": [
+            "airplane departure"
+        ]
+    },
+    {
+        "string": [
+            "regreso a"
+        ],
+        "icon": [
+            "airplane arrival"
+        ]
+    },
+    {
+        "string": [
+            "flight",
+            "vuelo",
+            "avion",
+            "avión"
+        ],
+        "icon": [
+            "airplane departure",
+            "airplane arrival",
+            "airplane",
+            "small airplane"
+        ]
+    },
+    {
+        "string": [
+            "car",
+            "auto",
+            "mazda"
+        ],
+        "icon": [
+            "sport utility vehicle"
+        ]
+    },
+    {
+        "string": [
+            "clean",
+            "limpiar"
+        ],
+        "icon": [
+            "broom"
+        ]
+    },
+    {
+        "string": [
+            "recital"
+        ],
+        "icon": [
+            "guitar",
+            "microphone"
+        ]
+    },
+    {
+        "string": [
+            "fix",
+            "arreglar",
+            "reparar"
+        ],
+        "icon": [
+            "hammer",
+            "screwdriver",
+            "wrench"
+        ]
+    },
+    {
+        "string": [
+            "corte de pelo",
+            "peluqueria",
+            "peluquería",
+            "estilista"
+        ],
+        "icon": [
+            "man getting haircut",
+            "woman getting haircut",
+            "scissors"
+        ]
+    },
+    {
+        "string": [
+            "hotel",
+            "hospedaje",
+            "hostal",
+            "hostel"
+        ],
+        "icon": [
+            "bellhop bell"
+        ]
+    },
+    {
+        "string": [
+            "odont",
+            "odontolog",
+            "odontólog",
+            "dentist",
+            "dental"
+        ],
+        "icon": [
+            "tooth"
+        ]
+    },
+    {
+        "string": [
+            "medico",
+            "médico",
+            "colsanitas",
+            "turno"
+        ],
+        "icon": [
+            "stethoscope"
+        ]
+    },
+    {
+        "string": [
+            "laboratorio"
+        ],
+        "icon": [
+            "syringe"
+        ]
+    },
+    {
+        "string": [
+            "pasaporte",
+            "passport",
+            "cedula",
+            "cédula",
+            "dni"
+        ],
+        "icon": [
+            "identification card"
+        ]
+    },
+    {
+        "string": [
+            "partido",
+            "velez",
+            "vélez"
+        ],
+        "icon": [
+            "soccer ball"
+        ]
+    },
+    {
+        "string": [
+            "teatro",
+            "theater",
+            "opera",
+            "ópera"
+        ],
+        "icon": [
+            "performing arts"
+        ]
+    },
+    {
+        "string": [
+            "game",
+            "videogame"
+        ],
+        "icon": [
+            "joystick",
+            "video game"
+        ]
+    }
+    ]
+}
