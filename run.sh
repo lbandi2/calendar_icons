@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir -p logs
-cd /home/sergio/scripts/calendar_geocode/
+cd /home/sergio/scripts/calendar_icons/
 . ./env/bin/activate
-/home/sergio/scripts/calendar_geocode/env/bin/python3 /home/sergio/scripts/calendar_geocode/main.py >> logs/calendar_geocode-"`date +"%Y-%m-%d_%H.%M.%S"`".log 2>&1
+/home/sergio/scripts/calendar_icons/env/bin/python3 /home/sergio/scripts/calendar_icons/main.py >> logs/calendar_icons-"`date +"%Y-%m-%d_%H.%M.%S"`".log 2>&1
 deactivate
