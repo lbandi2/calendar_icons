@@ -1,3 +1,3 @@
-# calendar_geocode
+# calendar_icons
 
-Program that scans a private Google Calendar for a specific title that indicates a trip. If title is successfully identified, an emoji with the corresponding flag is pre-appended to the title to symbolize the country where the trip is.
+Program that scans a private Google Calendar for a specific title that indicates a certain activity. If title is successfully identified among entries on a dictionary, an emoji with the corresponding icon is pre-appended to the title to symbolize the activity.
