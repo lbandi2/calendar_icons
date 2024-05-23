@@ -253,6 +253,14 @@
             "joystick",
             "video game"
         ]
+    },
+    {
+        "string": [
+            "corte de agua"
+        ],
+        "icon": [
+            "droplet"
+        ]
     }
     ]
 }
